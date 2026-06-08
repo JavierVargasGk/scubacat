@@ -21,7 +21,7 @@ video = False
 hand_position_history = []
 HISTORY_FRAMES = 5
 MOTION_THRESHOLD = 0.08
-COOLDOWN_DURATION = 2.0
+COOLDOWN_DURATION = 1.0
 
 last_movement_time = 0.0
 
